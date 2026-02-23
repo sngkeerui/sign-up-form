@@ -35,6 +35,12 @@ body {
     gap: 2px;
 }
 
+input {
+    width: 300px;
+    border: 2px solid rgb(226, 226, 231);
+    border-radius: 5px;
+}
+
 .form-submit {
     flex: 2;
 }
