@@ -9,5 +9,19 @@ body {
 }
 
 .form-section {
+    display: flex;
+    flex-direction: column;
+    flex: 2;
+}
+
+.form-explanation {
+    flex: 2;
+}
+
+.form-container {
+    flex: 1;
+}
+
+.form-submit {
     flex: 2;
 }
