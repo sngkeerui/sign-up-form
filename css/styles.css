@@ -20,6 +20,19 @@ body {
 
 .form-container {
     flex: 1;
+    flex-direction: column;
+    padding: 4rem;
+}
+
+.form-row {
+    display: flex;
+    gap: 6rem;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
 }
 
 .form-submit {
@@ -33,3 +46,4 @@ body {
 .form-explanation, .form-submit {
     background-color: ghostwhite;
 }
+
