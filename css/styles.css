@@ -29,3 +29,7 @@ body {
 .form-section > * {
     display: flex;
 }
+
+.form-explanation, .form-submit {
+    background-color: ghostwhite;
+}
