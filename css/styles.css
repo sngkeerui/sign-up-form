@@ -31,6 +31,7 @@ body {
 
 p {
     white-space: pre-line;
+    font-weight: 500;
 }
 
 .form-container {
@@ -48,6 +49,7 @@ p {
 
 h2 {
     margin-bottom: 1em;
+    font-size: 32px;
 }
 
 .form-group {
@@ -72,6 +74,7 @@ button {
     height: 50px;
     border: none;
     border-radius: 10px;
+    font-weight: 500;
     background-color: green;
     color: white;
     box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.5); 
