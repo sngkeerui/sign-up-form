@@ -42,6 +42,8 @@ input {
 
 .form-submit {
     flex: 2;
+    flex-direction: column;
+    gap: 2rem;
 }
 
 button {
@@ -54,7 +56,11 @@ button {
     box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.5); 
 }
 
-
+#login {
+    text-decoration: none;
+    color: green;
+    font-weight: bold;
+}
 
 .form-section > * {
     display: flex;
