@@ -85,6 +85,11 @@ input:user-valid {
   border-color: green;
 }
 
+label {
+    font-weight: 500;
+    color: rgb(94, 91, 91);
+}
+
 #login {
     text-decoration: none;
     color: green;
