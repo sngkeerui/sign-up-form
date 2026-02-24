@@ -20,7 +20,6 @@ body {
 
 .form-container {
     flex: 1;
-    flex-direction: column;
 }
 
 .form-row {
@@ -42,7 +41,6 @@ input {
 
 .form-submit {
     flex: 2;
-    flex-direction: column;
     gap: 2rem;
 }
 
@@ -64,6 +62,7 @@ button {
 
 .form-section > * {
     display: flex;
+    flex-direction: column;
     padding: 3rem;
 }
 
