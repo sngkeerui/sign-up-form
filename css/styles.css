@@ -40,6 +40,11 @@ p {
 .form-row {
     display: flex;
     gap: 6rem;
+    margin-bottom: 1em;
+}
+
+h2 {
+    margin-bottom: 1em;
 }
 
 .form-group {
