@@ -1,5 +1,13 @@
 @import "reset.css";
 
+:root {
+    --main-font: system-ui, sans-serif;
+}
+
+body, button, input {
+    font-family: var(--main-font);
+}
+
 body {
     display: flex;
 }
