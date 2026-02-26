@@ -9,6 +9,7 @@ This project was largely about applying basic principles in creating and formatt
 I also used a very vanilla way of matching the passwords by using an `if...else` statement with JavaScript.
 
 ## Acknowledgements
+* [A Modern CSS Reset by Josh Comeau](https://www.joshwcomeau.com/css/custom-css-reset/)
 * [Photo by Halie West on Unsplash](https://unsplash.com/photos/green-leaf-plant-in-close-up-photography-25xggax4bSA)
 * [httpbin.org](https://httpbin.org/)
 
